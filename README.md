@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack software developer with
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/felixmulaa](https://www.linkedin.com/in/felix-mulaa-b53632263)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-mulaa-b53632263)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mulaafelix.vercel.app)
 
 ---
