@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm [Felix Mulaa]! 👋
 
 Welcome to my GitHub profile! I'm a passionate fullstack software developer with a love for building innovative web applications. Here you'll find a collection of my projects, contributions, and a bit about me.
 
@@ -43,4 +43,4 @@ Welcome to my GitHub profile! I'm a passionate fullstack software developer with
 
 ---
 
-⭐️ From [Your Name](https://github.com/felixateya)
+⭐️ From [Felix Mulaa](https://github.com/felixateya)
