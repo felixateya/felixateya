@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack software developer with
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning [Ruby on Rails]
+- 🌱 I’m currently learning [Go Lang]
 - 👯 I’m looking to collaborate on [Anything challenging and educative]
 - 💬 Ask me about [javascript, Ruby, Python, SQl, Firebase, React, MongoDB,Supabase]
 - 📫 How to reach me: [mulaafelix6@gmail.com]
@@ -31,8 +31,6 @@ Welcome to my GitHub profile! I'm a passionate fullstack software developer with
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=felixateya&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixateya&layout=compact&theme=radical)
 
