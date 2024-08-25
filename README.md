@@ -1,14 +1,14 @@
-# Hi, I'm [Felix Mulaa]! 👋
+# Hi, I'm Felix Mulaa! 👋
 
 Welcome to my GitHub profile! I'm a passionate fullstack software developer with a love for building innovative web applications. Here you'll find a collection of my projects, contributions, and a bit about me.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning [Go Lang]
-- 👯 I’m looking to collaborate on [Anything challenging and educative]
-- 💬 Ask me about [javascript, Ruby, Python, SQl, Firebase, React, MongoDB,Supabase]
-- 📫 How to reach me: [mulaafelix6@gmail.com]
-- ⚡ Fun fact: [I code and design things beautifully]
+- 🌱 I’m currently learning Go Lang
+- 👯 I’m looking to collaborate on Anything challenging and educative
+- 💬 Ask me about javascript, Ruby, Python, SQl, Firebase, React, MongoDB, Supabase
+- 📫 How to reach me: mulaafelix6@gmail.com
+- ⚡ Fun fact: I code and design things beautifully
 
 ## 🛠️ Technologies & Tools
 
