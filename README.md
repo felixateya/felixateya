@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack software developer with
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning Go Lang
+- 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on Anything challenging and educative
 - 💬 Ask me about javascript, Ruby, Python, SQl, Firebase, React, MongoDB, Supabase
 - 📫 How to reach me: mulaafelix6@gmail.com
