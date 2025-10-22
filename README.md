@@ -34,6 +34,11 @@ Welcome to my GitHub profile! I'm a passionate fullstack software developer with
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixateya&layout=compact&theme=radical)
 
+## Profile Views
+
+![](https://komarev.com/ghpvc/?username=felixateya&label=Profile%20views&color=0e75b6&style=flat)
+
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-mulaa-b53632263)
