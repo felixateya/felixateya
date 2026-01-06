@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack software developer with
 
 - 🌱 I’m currently learning dart
 - 👯 I’m looking to collaborate on Anything challenging and educative
-- 💬 Ask me about javascript, Ruby, Python, SQl, Firebase, React, MongoDB, Supabase
+- 💬 Ask me about javascript, Ruby, Python, SQl, Firebase, React, MongoDB, Supabase, Nextjs, Typescript
 - 📫 How to reach me: mulaafelix6@gmail.com
 - ⚡ Fun fact: I code and design things beautifully
 
