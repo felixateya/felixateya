@@ -1,3 +1,4 @@
+
 # Hi, I'm Felix Mulaa! 👋
 
 Welcome to my GitHub profile! I'm a passionate fullstack software developer with a love for building innovative web applications. Here you'll find a collection of my projects, contributions, and a bit about me.
@@ -19,6 +20,9 @@ Welcome to my GitHub profile! I'm a passionate fullstack software developer with
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
+
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
